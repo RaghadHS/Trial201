@@ -1,0 +1,67 @@
+body 
+{
+    color: lemonchiffon;
+
+}
+#HeaderID
+{
+    color: coral;
+    font-size: 80px;
+    text-align: center;
+    padding: 10px;
+
+}
+
+#LIST
+{
+    color: slategray;
+    font-size: 25px;
+    float: left;
+    padding-bottom: 50px;
+    padding-left: 155px;
+    margin-left: 35px;
+    font-weight: bolder;
+}
+
+nav 
+{
+    
+    font: 35px;
+    text-align: right;
+    float: right;
+}
+
+nav ul
+{
+    list-style: none;
+}
+
+nav ul li
+{
+    display: inline-block;
+}
+
+nav ul li a
+{
+    color: slategrey;
+    text-decoration: none;
+    text-decoration-line: none;
+    padding-left: 20px;
+    list-style: none;
+    padding-bottom: 50px;
+    font-size: 25px;
+}
+
+nav ul li a :hover
+{
+    text-decoration: none;
+    color: red;
+}
+
+#IFRAME
+{
+    color: slategrey;
+    text-align: left;
+    font-size: 30px;
+    padding-right: 300px;
+}
