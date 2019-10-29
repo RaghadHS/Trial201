@@ -1,6 +1,6 @@
 body 
 {
-    color: lemonchiffon;
+    color: wheat;
 
 }
 #HeaderID
@@ -64,4 +64,43 @@ nav ul li a :hover
     text-align: left;
     font-size: 30px;
     padding-right: 300px;
+}
+
+#image
+{
+    min-width: 30px;
+    max-width: 150px;
+}
+
+#a1
+{
+    color: navy;
+    font-weight: bold;
+}
+
+#as1
+{
+    color: navy;
+    font-weight: bold;
+    margin-left: 20%;
+}
+
+#one
+{
+    font-size: 30px;
+    max-height: 300px;
+    max-width: 150px;
+    color: red;
+    overflow: hidden;
+
+}
+
+#two
+{
+    font-size: 30px;
+    max-height: 300px;
+    max-width: 150px;
+    color: purple;
+    overflow: scroll;
+
 }
